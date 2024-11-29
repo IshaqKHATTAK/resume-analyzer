@@ -1,0 +1,9 @@
+/venv
+/.venv
+/.idea
+**/__pycache__/
+.DS_Store
+/fastapi.db
+/backend/.env
+/frontend/.env
+/**/__pycache__/
